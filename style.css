@@ -210,8 +210,7 @@ body {
 
 /* tokenomics section */
 .token {
-  background-image: linear-gradient(#41b8dc5b, #41b8dc67),
-    url(/assets/images/tknBg.png);
+  background-image: linear-gradient(#43b9da42, #43bada);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
